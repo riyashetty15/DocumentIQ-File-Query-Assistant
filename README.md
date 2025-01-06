@@ -101,6 +101,6 @@ Visit the provided Ngrok URL in your browser to access the application.
 ### Notes
 - Session State Management: The app uses StreamlitChatMessageHistory to maintain conversation history between user and AI.
 
-- Persistence: The vector database is stored in the ./chroma_persist directory for future use.
+- Persistence: The vector database is stored in the `./chroma_persist` directory for future use.
 
 - Customizability: Modify the QA prompt template to suit your specific requirements.
