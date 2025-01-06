@@ -80,6 +80,11 @@ Visit the provided Ngrok URL in your browser to access the application.
   - The LLM generates an answer based on the retrieved content.
 
   - Sources used for the response are displayed.
+ 
+### Example
+
+![Screenshot 2025-01-05 at 9 21 02 PM](https://github.com/user-attachments/assets/a3690096-0dd4-4a1f-9367-7ad34ad8805c)
+
 
 ### Key Components
 
